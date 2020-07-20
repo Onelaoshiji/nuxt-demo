@@ -1,0 +1,57 @@
+const departmentList = [{
+	name: "内分泌"
+}, {
+	name: "消化内科"
+}, {
+	name: "神经内科"
+}, {
+	name: "呼吸内科"
+}, {
+	name: "肾内科"
+}, {
+	name: "心血管内科"
+}, {
+	name: "血液内科"
+}, {
+	name: "肿瘤科"
+}, {
+	name: "骨科"
+}, {
+	name: "结石科"
+}, {
+	name: "乳腺外科"
+}, {
+	name: "神经外科"
+}, {
+	name: "心胸外科"
+}, {
+	name: "器官移植"
+}, {
+	name: "泌尿外科"
+}, {
+	name: "男科"
+}, {
+	name: "心血管外科"
+}, {
+	name: "普外科"
+}, {
+	name: "妇产科"
+}, {
+	name: "皮肤科"
+}, {
+	name: "性病科"
+}, {
+	name: "儿科"
+}, {
+	name: "五官科"
+}, {
+	name: "精神科"
+}, {
+	name: "中医科"
+}, {
+	name: "传染科"
+}, {
+	name: "ICU"
+}];
+
+export default departmentList;

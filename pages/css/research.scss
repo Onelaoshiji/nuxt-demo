@@ -1,0 +1,72 @@
+.main {
+  padding: 0 0.25rem;
+  font-size: 0.3rem;
+  text-align: left;
+  line-height: 0.42rem;
+  color: #424242;
+
+  .item {
+    padding: 0.3rem 0;
+    border-bottom: 0.01rem solid #f6f6f6;
+  }
+
+  .item:last-child {
+    border: none;
+  }
+
+  .title {
+    min-height: 0.84rem;
+  }
+}
+
+.selectbox {
+  padding: 0.1rem;
+  margin: 0 0.2rem;
+  font-size: 0.26rem;
+  box-sizing: border-box;
+  line-height: 0.46rem;
+  border: 0.01rem solid #f6f6f6;
+  border-radius: 0.1rem;
+  position: relative;
+
+  .arrow {
+    width: 0;
+    height: 0;
+    position: absolute;
+    right: 0.2rem;
+    top: 50%;
+    transform: translateY(-50%);
+    border-top: 0.16rem solid #424242;
+    border-left: 0.16rem solid transparent;
+    border-right: 0.16rem solid transparent;
+  }
+}
+
+/deep/ .van-radio__label,
+/deep/ .van-checkbox__label {
+  color: #424242;
+  font-size: 0.26rem;
+  padding: 0.11rem 0;
+}
+
+.require {
+  font-size: 0.3rem;
+  color: #db4b38;
+}
+
+.btn {
+  width: 6.75rem;
+  height: 0.85rem;
+  margin: 0 auto;
+  margin-top: 0.4rem;
+  background: linear-gradient(
+    90deg,
+    rgba(28, 128, 242, 1) 0%,
+    rgba(64, 159, 251, 1) 100%
+  );
+  border-radius: 0.6rem;
+  text-align: center;
+  line-height: 0.85rem;
+  color: #ffffff;
+  font-size: 0.24rem;
+}

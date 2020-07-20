@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="82" viewBox="0 0 82 82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0.8;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff4943"/>
+      <stop offset="1" stop-color="#ffadaa"/>
+    </radialGradient>
+  </defs>
+  <g id="组_795" data-name="组 795" transform="translate(-334 -449)">
+    <circle id="椭圆_6106" data-name="椭圆 6106" class="cls-1" cx="41" cy="41" r="41" transform="translate(334 449)"/>
+    <g id="组_773" data-name="组 773" transform="translate(17.066 -1143.096)">
+      <path id="路径_4966" data-name="路径 4966" class="cls-2" d="M81.255,138.5H76.842l-2.83-11.039H78.43Z" transform="translate(270.855 1506.437)"/>
+      <path id="路径_4967" data-name="路径 4967" class="cls-3" d="M104.117,148.706H74.347L66.2,121.543l13.191,2.638,3.523-5.281a7.628,7.628,0,0,1-1.4-4.4,7.738,7.738,0,0,1,3.957-6.745,8.093,8.093,0,0,1,8.282.357,5.665,5.665,0,0,1,1.805,1.785,8.05,8.05,0,0,1,.491,8.23l5.028,6.037,11.251-2.814Zm-26.485-4.418h23.2l5.033-16.781-6.409,1.6-9.125-10.956,1.319-1.423a3.527,3.527,0,0,0,.176-4.485,1.279,1.279,0,0,0-.393-.388,3.628,3.628,0,0,0-3.812-.259,3.319,3.319,0,0,0-1.7,2.9,3.254,3.254,0,0,0,1.195,2.514l1.505,1.273-7.2,10.806-8.882-1.779Z" transform="translate(268.329 1502.854)"/>
+    </g>
+  </g>
+</svg>

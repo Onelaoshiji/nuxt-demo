@@ -1,0 +1,94 @@
+.login {
+  width: 7.5rem;
+  background: #fff;
+  height: 100vh;
+
+  img {
+    width: 100%;
+  }
+
+  .login-form {
+    width: 7.5rem;
+    box-sizing: border-box;
+    padding: 0.85rem 0.35rem;
+  }
+
+  .login-btn {
+    height: 0.9rem;
+    width: 6.8rem;
+    margin: 0 auto;
+    margin-top: 1.3rem;
+    text-align: center;
+    line-height: 0.9rem;
+    color: #fff;
+    background: #2f92ee;
+    border-radius: 0.45rem;
+    font-size: 0.29rem;
+    font-weight: bold;
+  }
+}
+
+.van-cell {
+  padding: 0;
+  height: 0.9rem;
+  font-size: 0.26rem;
+  line-height: 0.9rem;
+  background: #f7f7f7;
+  border-radius: 0.45rem;
+}
+
+.gap {
+  height: 0.35rem;
+}
+
+.reset {
+  background: #ccc !important;
+}
+
+.btn {
+  width: 2rem;
+  height: 0.9rem;
+  line-height: 0.9rem;
+  text-align: center;
+  background: #2f92ee;
+  color: #fff;
+}
+
+.label::after {
+  width: 0.02rem;
+  height: 0.35rem;
+  content: "";
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  background: #cecece;
+}
+
+.van-dropdown-menu.van-hairline--top-bottom {
+  border-radius: 0.45rem 0 0 0.45rem;
+  background: #f7f7f7;
+}
+
+.van-field__body {
+  margin-right: 0.2rem;
+}
+
+/deep/.van-field__control {
+  padding-left: .40rem;
+  z-index: 2;
+  background: transparent;
+}
+
+/deep/ .van-field__error-message {
+  position: absolute;
+  top: 50%;
+  right: .40rem;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+
+/deep/ .van-icon {
+  z-index: 2
+}

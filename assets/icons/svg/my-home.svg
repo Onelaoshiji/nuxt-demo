@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="82" viewBox="0 0 82 82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        opacity: 0.8;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7500"/>
+      <stop offset="1" stop-color="#fdd0a9"/>
+    </radialGradient>
+  </defs>
+  <g id="组_796" data-name="组 796" transform="translate(-87 -449)">
+    <circle id="椭圆_6104" data-name="椭圆 6104" class="cls-1" cx="41" cy="41" r="41" transform="translate(87 449)"/>
+    <g id="组_772" data-name="组 772" transform="translate(-46.385 -1142.337)">
+      <path id="路径_4964" data-name="路径 4964" class="cls-2" d="M146.139,76.5,128,94.639v23h36.279v-23Zm14.11,37.115h-28.22V96.307L146.139,82.2l14.11,14.11Z" transform="translate(28 1533.132)"/>
+      <path id="路径_4965" data-name="路径 4965" class="cls-3" d="M142,98.5v10.076h4.029V98.5a2.015,2.015,0,1,0-4.029,0Z" transform="translate(30.116 1535.005)"/>
+    </g>
+  </g>
+</svg>
