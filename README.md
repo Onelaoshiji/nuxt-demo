@@ -20,3 +20,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## svg的xlink:href属性会自动拼接'/',我直接在use标签上添加ref属性就好了,具体原因不明
